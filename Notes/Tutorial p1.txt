@@ -1,0 +1,12 @@
+Gatsby -> Creating your first project
+
+Once that’s installed, open a new terminal window and run the following commands to create a new Gatsby site in a directory called tutorial-part-one and then move to this new directory:
+
+gatsby new tutorial-part-one https://github.com/gatsbyjs/gatsby-starter-hello-world
+cd tutorial-part-one   // For new site just replace the link to your git info and the begining to the new of the file
+
+Before beginging your project, You must start up "gatsby develope" after you name your directory
+    This allows you to view it in the browser using http://localhost:8000/
+
+Everything build live once you save it.
+You need to develop in a text editor. Gatsby basically allows you to have a personal server
