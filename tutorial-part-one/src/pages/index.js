@@ -10,4 +10,7 @@ export default () => //<div style={{ color: `tomato` }}>Hello Gatsby!</div>;
      <div>
         <link to ="/page-2/"link </link>
     </div>
+    <div>
+      <Link to=" /counter/"> Counter</Link>
+     </div>
     </div>
