@@ -8,7 +8,7 @@ export default () =>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
     <br />
     <div>
-      <Link to="/page-2/">button >page 2</Link>
+      <Link to="/page-2/">page 2</Link>
     </div>
     <div>
       <Link to="/page-3/">page 3</Link>
